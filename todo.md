@@ -4,18 +4,15 @@ Voici la liste des choses à définir lorsque l'on commence une spécification :
 
 1. Définition du contexte
 
- - [ ] Définir le type de projet : Personnel, Outils interne à l'entreprise, produit Altazion, scénario de test, démo
- - [ ] Si c'est un produit Altazion, donc destiné aux clients, la solution correspondante : Altazion Commerce Suite, Altazion Retail Suite, Altazion Supply Chain Suite, etc.
- - [ ] Si c'est un outil interne, définir la raison : un outil de développement, un outil pour la connaissance métier, un outil marketing / commercial
-
-< si il s'agit d'un produit altazion >
+- [x] Definir le nom et l'objectif du projet
+ 
 
 2. Utilisateurs cibles et parties prenantes
- - [ ] Définir les profils utilisateurs (ex : préparateur, administrateur, vendeur en magasin, etc.)
- - [ ] Décrire les besoins spécifiques de chaque profil
+ - [x] Définir les profils utilisateurs (ex : préparateur, administrateur, vendeur en magasin, etc.)
+ - [x] Décrire les besoins spécifiques de chaque profil
 
 3. Fonctionnalités principales
- - [ ] Lister les fonctionnalités attendues de l'application
+ - [x] Lister les fonctionnalités attendues de l'application
  - [ ] Prioriser les fonctionnalités (essentielles, optionnelles)
 
 4. Contraintes et exigences
@@ -42,11 +39,3 @@ Voici la liste des choses à définir lorsque l'on commence une spécification :
  - [ ] Ajouter les liens utiles, références, ou autres informations complémentaires
 
 
-< si il s'agit d'un outil interne pour développeurs >
-
-2. Définir le type d'outils
- - [ ] Est-ce un framework, une librairie de composants, un complément pour IDE, un complément pour la plateforme Azure DevOps, un outil de déploiement, etc
- - [ ] Qui va l'utiliser ? tous les développeurs, les gens qui font du front, ceux qui font du back, la partie DevOps ?
-
-
- 
